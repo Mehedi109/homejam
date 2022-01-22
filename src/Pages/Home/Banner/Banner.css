@@ -1,0 +1,78 @@
+.banner {
+  /* background: url(../../../images/banner.png); */
+  /* position: absolute; */
+
+  /* background-size: cover; */
+  /* height: 862px; */
+  /* position: relative; */
+  /* top: -54px; */
+}
+
+.banner-image {
+  background: #000;
+  /* background: linear-gradient(
+    180deg,
+    rgba(5, 11, 20, 0.28) 0%,
+    rgba(1, 13, 32, 0.69) 67.53%,
+    #0a0b1a 85.33%
+  ); */
+}
+
+.banner-image div {
+  background-image: url("../../../images/banner.png");
+  display: block;
+  height: 862px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  opacity: 0.5;
+}
+
+/* .banner-heading {
+  white-space: pre-wrap;
+  position: relative;
+  bottom: 240px;
+  color: white;
+} */
+/* .banner img {
+  width: 100%;
+  background: linear-gradient(
+    180deg,
+    rgba(5, 11, 20, 0.28) 0%,
+    rgba(1, 13, 32, 0.69) 67.53%,
+    #0a0b1a 85.33%
+  );
+  opacity: 0.5;
+} */
+
+.banner-heading {
+  white-space: pre-wrap;
+  position: relative;
+  bottom: 650px;
+  color: white;
+}
+
+/* .banner-heading {
+  /* white-space: pre-wrap; */
+/* margin-bottom: 314px; */
+.banner h1 {
+  font-size: 80px;
+  font-family: libre baskerville;
+  color: #fff;
+  position: relative;
+  width: 383px;
+  height: 96px;
+  left: 118px;
+}
+
+.banner p {
+  font-size: 24px;
+  font-family: Nunito;
+  line-height: 32px;
+  color: #fff;
+  width: 641px;
+  position: relative;
+  height: 64px;
+  text-align: start;
+  left: 151px;
+}
