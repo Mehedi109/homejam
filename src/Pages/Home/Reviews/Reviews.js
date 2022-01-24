@@ -1,16 +1,13 @@
 import React from "react";
 import Card from "@mui/material/Card";
-import CardActions from "@mui/material/CardActions";
 import CardContent from "@mui/material/CardContent";
-import CardMedia from "@mui/material/CardMedia";
-import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 import user1 from "../../../images/user-1.png";
 import user2 from "../../../images/user-2.png";
 import user3 from "../../../images/user-3.png";
 import us from "../../../images/🇺🇸.png";
 import it from "../../../images/🇮🇹.png";
-import { Box, Container, Grid } from "@mui/material";
+import { Container, Grid } from "@mui/material";
 
 const Reviews = () => {
   return (
