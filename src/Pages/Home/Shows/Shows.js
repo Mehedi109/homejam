@@ -217,7 +217,7 @@ const Shows = () => {
             <Grid item xs={12} sm={12} md={3}>
               <Card
                 sx={{
-                  maxWidth: 345,
+                  maxWidth: 268,
                   height: 387,
                   background: "#111229",
                   textAlign: "start",
